@@ -2,7 +2,7 @@
 #include<iostream>
 
 int testf3(int asdf) {
-	return asdf*2;
+	return asdf*4;
 }
 
 int main(int argc, char** argv) {
