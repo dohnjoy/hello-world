@@ -3,6 +3,10 @@
 
 #line added in testbranch2
 
+int featureX(void) {
+	printf("this is feature X");
+}
+
 int blabla(void) {
 	int x = 3;
 
