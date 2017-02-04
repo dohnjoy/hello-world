@@ -10,6 +10,10 @@ int blabla(void) {
 	return x;
 }
 
+int testf2(int bla) {
+
+}
+
 int testf3(int asdf) {
 	return asdf*4;
 }
