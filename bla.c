@@ -15,7 +15,11 @@ int blabla(void) {
 }
 
 int testf2(int bla) {
+	
+}
 
+int featureY(void) {
+	print("this is feature Y");
 }
 
 int testf3(int asdf) {
