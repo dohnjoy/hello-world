@@ -20,5 +20,6 @@ int testf3(int asdf) {
 
 int main(int argc, char** argv) {
 	print("hello world");
+	print("some master branch change");
 	return 0;
 }
