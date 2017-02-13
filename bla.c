@@ -1,7 +1,5 @@
 #include<stdio.h>
-#include<iostream>
 
-#line added in testbranch2
 
 int featureX(void) {
 	printf("this is feature X");
@@ -10,16 +8,13 @@ int featureX(void) {
 int blabla(void) {
 	int x = 3;
 
-	x = x * 5
+	x = x * 5;
 	return x;
 }
 
-int testf2(int bla) {
-	
-}
 
 int featureY(void) {
-	print("this is feature Y");
+	printf("this is feature Y");
 }
 
 int testf3(int asdf) {
@@ -27,7 +22,7 @@ int testf3(int asdf) {
 }
 
 int main(int argc, char** argv) {
-	print("hello world");
-	print("some master branch change");
+	printf("hello world");
+	printf("some master branch change");
 	return 0;
 }
