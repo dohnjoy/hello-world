@@ -24,5 +24,6 @@ int testf3(int asdf) {
 int main(int argc, char** argv) {
 	printf("hello world");
 	printf("some master branch change");
+	printf("blablabla");
 	return 0;
 }
