@@ -12,7 +12,6 @@ int blabla(void) {
 	return x;
 }
 
-
 int featureY(void) {
 	printf("this is feature Y");
 }
